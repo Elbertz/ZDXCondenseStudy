@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WISPAccessGatewayParam xmlns:xsi="”http://www.w3.org/2001/XMLSchema-instance”" xsi:noNamespaceSchemaLocation="http://portalserver/WISPAccessGatewayParam.xsd">
+    <Redirect>
+        <MessageType>100</MessageType>
+        <AccessProcedure>1</AccessProcedure>
+        <AccessLocation>12</AccessLocation>
+        <LocationName>XXX</LocationName>
+        <LoginURL>http://211.138.195.31/login/?wlanacip=61.133.137.8&amp;userip=60.168.173.74</LoginURL>
+        <AbortLoginURL></AbortLoginURL>
+        <ResponseCode>0</ResponseCode>
+    </Redirect>
+</WISPAccessGatewayParam>
